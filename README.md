@@ -1,4 +1,4 @@
 # Play-Me-a-Song
-This is a blazor web application that connects to my spotify and exposes a page to the internet that anyone can navigate to, search for a song and click play on the song and it will play on my Spotify account if I'm currently listening to Spotify or it will add the song to a playlist if I'm not listening right at the moment.
+This is a blazor web app that connects to my spotify and exposes a page that anyone can navigate to, search and play a song and it will play to my Spotify account if I'm currently listening or it will add the song to a playlist if I'm not.
 
-It was live for a while but not anymore.
+Live at https://playmeasong20260111082208-bhdacaenhpeydzbs.canadacentral-01.azurewebsites.net/
